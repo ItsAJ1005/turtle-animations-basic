@@ -26,7 +26,8 @@
 
 Here's a sample output:
 
-![Turtle Graphics - Code 1](./images/animation1.png)
+<img src="./images/animation1.png" alt="drawing" width="450"/>
+
 
 # Turtle Graphics - Code 2 🌀🌈
 
@@ -53,7 +54,7 @@ This Python script uses the Turtle graphics library to draw a colorful spiral. T
 
 Here's a sample output:
 
-![Turtle Graphics - Code 2](./images/animation2.png)
+<img src="./images/animation2.png" alt="drawing" width="450"/>
 
 # Turtle Graphics - Code 3 🌀🌈
 
@@ -80,7 +81,7 @@ This Python script uses the Turtle graphics library to draw a vibrant and intric
 
 Here's a sample output:
 
-![Turtle Graphics - Code 3](./images/animation3.png)
+<img src="./images/animation3.png" alt="drawing" width="450"/>
 
 Explore the code and make your own modifications to generate unique spiral patterns!
 
